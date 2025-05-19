@@ -14,9 +14,11 @@ A local physics chatbot that leverages Retrieval-Augmented Generation (RAG) tech
 
 ## Screenshot
 
-![Answer example](images/QA2_rod.png)
+![QA2_rod](https://github.com/user-attachments/assets/3182d353-1c5a-40ae-ab71-90b141a223ad)
+
 Another
-![image](https://github.com/user-attachments/assets/68a97caa-992e-447d-bab2-f2ad74daeceb)
+![image](https://github.com/user-attachments/assets/5e8294c6-d67b-4438-aabe-560fb198ebd6)
+
 
 in VS code
 ![VS  example](images/vs_ss.png)
