@@ -19,15 +19,25 @@ VS code
 Slow Response Time: The chatbot may take a significant amount of time to generate responses.
 
 Potential for Hallucinations: While holding conversations, the model may occasionally generate inaccurate or fabricated information.
+
 # Technology Stack
 This project uses the following technologies:
 
 Python 3.8+: Core programming language.
+
 Streamlit: Web interface.
+
 LangChain: RAG implementation.
+
 SentenceTransformers: Text embeddings.
+
 ChromaDB: Vector database.
+
 PyPDF2: PDF processing.
+
 Plotly: Metrics visualization.
+
 PyTorch: GPU acceleration.
+
 TensorFlow: Model optimization.
+
