@@ -10,9 +10,11 @@ GPU Acceleration: Utilizes GPU for faster processing when available
 Performance Metrics: Monitor response quality, timing, and physics-specific metrics
 # Example
 # Screenshot
-![QA2_rod](https://github.com/user-attachments/assets/3837e2d1-c08d-424b-9ec1-4051c040d116)
+![image](https://github.com/user-attachments/assets/4cf13232-c9c1-472a-8ad9-9fc1a84b1b36)
+
 Another
-![QA1](https://github.com/user-attachments/assets/6aad4a67-df37-4b43-9b75-d8dbc6210bea)
+![image](https://github.com/user-attachments/assets/66d0cf23-03b5-4212-b82d-1c87794e1dd3)
+
 VS code
 ![vs_ss](https://github.com/user-attachments/assets/5b6b8df4-8379-42ee-a974-4bbda309944d)
 # Weaknesses
