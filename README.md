@@ -15,11 +15,11 @@ Another
 ![image](https://github.com/user-attachments/assets/8742c0d0-fcfc-4e5d-90db-c0bcf47389d5)
 VS code
 ![vs_ss](https://github.com/user-attachments/assets/1fcaa45f-9d16-425e-9544-4fa66fe03b48)
-#Weaknesses
+# Weaknesses
 Slow Response Time: The chatbot may take a significant amount of time to generate responses.
 
 Potential for Hallucinations: While holding conversations, the model may occasionally generate inaccurate or fabricated information.
-#Technology Stack
+# Technology Stack
 This project uses the following technologies:
 
 Python 3.8+: Core programming language.
