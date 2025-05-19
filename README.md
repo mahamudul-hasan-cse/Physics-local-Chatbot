@@ -8,8 +8,8 @@ Open Source Models: Uses the Llama3:latest model from Ollama for efficient and l
 Factual and Conversational: Capable of answering questions and holding conversations effectively.(it may hallucinate when hold conversation )
 GPU Acceleration: Utilizes GPU for faster processing when available
 Performance Metrics: Monitor response quality, timing, and physics-specific metrics
-#Example
-#Screenshot
+# Example
+# Screenshot
 ![QA2_rod](https://github.com/user-attachments/assets/7d52f116-f8cb-4069-b3d8-4328fac383ca)
 Another
 ![image](https://github.com/user-attachments/assets/8742c0d0-fcfc-4e5d-90db-c0bcf47389d5)
